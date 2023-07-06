@@ -20,6 +20,4 @@ FRC LATAM</h3>
 <br>
 <h4 align="left">Siguenos en nuestras redes sociales: </h3>
 <p align="left">
-<a href="https://www.facebook.com/profile.php?id=100093810591571" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="e" height="30" width="40" /></a>
-<a href="https://instagram.com/first_no_oficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="first_no_oficial" height="30" width="40" /></a>
-<a href="https://www.tiktok.com/@first_no_oficial" target="blank"><img align="center" src="tiktok-outline-svgrepo-com.svg" alt="first_no_oficial" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100093810591571" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="e" height="30" width="30" /></a> <a href="https://www.instagram.com/first_no_oficial/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" height="30" /></a> <a href="https://tiktok.com/@first_no_oficial" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" alt="TikTok" height="30" /></a>
